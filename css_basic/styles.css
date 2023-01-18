@@ -2,8 +2,22 @@
 body {
     display: flex;
     flex-direction: column;
-}
+    background-color: beige;
+    border: 8px;
 
+}
+/* Logo */
+.header p{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background-color: #881bbb00;
+    color: white;
+    height: auto;
+    width: auto;
+    flex: 2;
+}
 /* Main */
 main {
     display: flex;
