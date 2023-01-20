@@ -1,8 +1,7 @@
 /* Importing webfonts */
 /* (If you're learning CSS, you should disregard that) */
 
-@import url(https://fonts.googleapis.com/css?family=Yeseva+One);
-@import url(https://fonts.googleapis.com/css?family=Josefin+Sans:400,700,700italic,400italic);
+
 
 
 /* CSS reset rules */
@@ -56,11 +55,12 @@ table {
 /* Fonts and colors */
 
 body {
-	font-family: 'Josefin Sans', serif;
+	font-family :'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 	color: rgba(0, 0, 0, 0.8);
 }
 h1, h2, h3, h4, h5, h6, header {
-	font-family: 'Yeseva One', sans-serif;
+	font-family: 'Times New Roman', Times, serif;
+	color: #ddd;
 }
 header {
 	border-bottom: 1px solid rgb(221,221,221);

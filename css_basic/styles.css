@@ -2,7 +2,7 @@
 body {
     display: flex;
     flex-direction: column;
-    background-color: beige;
+    background-color: rgb(201, 161, 87);
     border: 8px;
 
 }
@@ -12,7 +12,7 @@ body {
     flex-direction: row;
     justify-content: center;
     align-items: center;
-    background-color: #881bbb00;
+    background-color: #084b2c05;
     color: white;
     height: auto;
     width: auto;
@@ -37,4 +37,13 @@ article {
 aside {
     flex: 1;
     overflow-y: auto;
+}
+
+.logo{
+    font-size: 8rem;
+    text-shadow: 0px 0px 100px;
+}
+.tweet p{
+    font-size: 3rem;
+    text-shadow: 0px 0px 100px;
 }
