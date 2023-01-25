@@ -15,4 +15,10 @@
 
 ## Idea of the website
 
-![Image one](https://s3.amazonaws.com/alu-intranet.hbtn.io/uploads/medias/2021/4/1f4cd63ecc3a8c03b0f4309b74aca179e225aabf.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUZTW2RLVB%2F20230124%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230124T150608Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=3df1877cdf8524ea98a8f143b75b42a9371bd8dc998d0699ad672cc66c2fb607)
+![Image one](https://user-images.githubusercontent.com/109439888/214020630-738bc53c-a165-4c25-9faf-bb230d5ae43a.png)
+![Image two](https://user-images.githubusercontent.com/109439888/214020748-c42b259e-df6d-4537-920d-6ea90b9b4887.png)
+![Image three](https://user-images.githubusercontent.com/109439888/214020786-c26f7c70-cd19-4489-9108-f851359f19c2.png)
+![Image 4](https://user-images.githubusercontent.com/109439888/214020915-22e9ac36-75e4-4a69-beb9-1f98056c40fa.png)
+![Image 5](https://user-images.githubusercontent.com/109439888/214020930-0b188007-14aa-412e-846b-10b26624e42f.png)
+![Image 6](https://user-images.githubusercontent.com/109439888/214020957-a52fc19f-56a4-4230-822a-c76401d5e242.png)
+![Image 7](https://user-images.githubusercontent.com/109439888/214020975-8fddb863-5b5f-4c8a-90db-5306b6256b03.png)
