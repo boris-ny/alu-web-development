@@ -12,3 +12,4 @@
 - [css_advanced](css_advanced)
 - [caching](caching)
 - [Basic_authentication](Basic_authentication)
+- [Session_authentication](Session_authentication)
