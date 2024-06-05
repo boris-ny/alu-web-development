@@ -13,7 +13,7 @@ app.url_map.strict_slashes = False
 @app.route('/')
 def hello_world():
     """hello world"""
-    return jsonify({"message": "Bienvenue"})
+    return jsonify({"message": "Hello World"})
 
 
 @app.route('/users', methods=['POST'])
